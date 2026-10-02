@@ -1,2 +1,6 @@
 data/eurosat/
 __pycache__/
+.venv/
+*.pth
+*.pt
+outputs/member3/checkpoints/
