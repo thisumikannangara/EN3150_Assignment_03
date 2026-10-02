@@ -4,3 +4,5 @@ __pycache__/
 *.pth
 *.pt
 outputs/member3/checkpoints/
+EuroSAT.zip
+results/
